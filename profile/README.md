@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.tli-tech.com">
+    <img src="../assets/profile-banner.png" alt="TLI Tech — Production-ready AI systems" width="100%" />
+  </a>
+</p>
+
 <div align="center">
 
 # TLI Tech
